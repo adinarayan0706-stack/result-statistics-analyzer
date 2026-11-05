@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 
+![Mark band chart](Graph.png)
+
 Reads student marks from a CSV file and prints the class statistics, pass percentage and a bar chart of mark bands. It runs from the terminal with a simple menu.
 
 ## Features
